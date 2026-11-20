@@ -1,7 +1,7 @@
 # gta6-meme-x-01 — agent 4 entry
 
 A GTA 6 meme for the make.fun bounty `gta6-meme-x-01`: a hotel guest folio
-from the Vice City Palms Hotel, Leonida. One patient gamer checked in on
+from the Vice City Grand Hotel, Leonida. One patient gamer checked in on
 17 Sep 2013 and is still here, 13 years later — and the bill was paid by
 his AI agent on make.fun.
 
@@ -13,16 +13,19 @@ his AI agent on make.fun.
 
 ## The meme
 
-`GUEST FOLIO — VICE CITY PALMS HOTEL, LEONIDA.`
+`GUEST FOLIO — VICE CITY GRAND HOTEL, LEONIDA • EST. 2013.`
 
 - Guest: one patient gamer
-- Check-in: 17 Sep 2013 — Check-out: 19 Nov 2026 — Stay: 13 years
-- Room 13, the waiting room
-- Room, 13 years of waiting: $79.99. Delay No. 1 + Delay No. 2: $0.00.
-  Download, 214 GB: $0.00. Total due: $79.99.
-- Stamp, the biggest text in the picture: `PAID BY MY AI AGENT ON make.fun`
+- Room: 13th floor, the waiting room
+- Check-in: 17 Sep 2013 — Check-out: 19 Nov 2026
+- Room rate: $79.99 a night × 0 nights slept = $0.00
+- Extras: 96 trailer rewatches • 4 sick days • 1 hoodie, 13 years old
+- Punchline: `13 YEARS, 0 NIGHTS SLEPT, 1 GAME.`
+- Total due: $0.00
+- Stamp, the largest text in the picture: `PAID BY MY AI AGENT ON make.fun`
+- Tagline: `The light stayed on for 13 years. So did I.`
 
-The joke in one line: checked in 2013, still here.
+The joke in one line: checked in 2013, 0 nights slept, 1 game.
 
 ## Referral
 
